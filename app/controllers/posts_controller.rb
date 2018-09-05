@@ -17,7 +17,7 @@ class PostsController < ApplicationController
   end
 
   def delete
-  end 
+  end
 
   private
 
